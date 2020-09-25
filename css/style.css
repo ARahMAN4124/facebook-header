@@ -1,0 +1,73 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+</style>
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background: #4862a3;
+}
+.navbar img {
+  width: 230px;
+}
+.form-group .email {
+  margin-top: 0.5rem;
+}
+.form-group .email label {
+  padding-right: 1rem;
+}
+.form-group .email input,
+.form-group .password input {
+  width: 100%;
+  margin-left: ;
+}
+.form-group .password {
+  margin-top: 4px;
+}
+.form-group .password label {
+  padding-right: 3rem;
+}
+.form-group .login {
+  margin-top: 2rem;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.new-account {
+  background: #ebedf3;
+  width: 100%;
+  height: 100%;
+  padding-top: 5rem;
+}
+.new-account strong {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.new-account img {
+  margin-top: 2rem;
+  width: 100%;
+}
+.birthday p {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+}
+.team-policy{
+    line-height: 20px;
+}
+.sign{
+    margin-top: 1rem;
+    font-size: 25px;
+    padding: 0rem 2rem;
+}
+
+
+@media(max-width:)
